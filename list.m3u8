@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Общероссийские",Первый канал
-http://127.0.0.1:6878/ace/getstream?id=6e3bb6118dc9f417d4a6e00fd85de550001d3427
+http://127.0.0.1:6878/ace/getstream?infohash=6e3bb6118dc9f417d4a6e00fd85de550001d3427
 
 #EXTINF:-1 group-title="Общероссийские",Россия 1
-http://127.0.0.1:6878/ace/getstream?id=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
+http://127.0.0.1:6878/ace/getstream?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
 
 #EXTINF:-1 group-title="Общероссийские",ТВ-3
-http://127.0.0.1:6878/ace/getstream?id=3403267623697a7092a10478aad7f234f2ce4a64
+http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2ce4a64
 
 #EXTINF:-1 group-title="Общероссийские",НТВ
-http://127.0.0.1:6878/ace/getstream?id=70b326a20ed023c335618a7eedc7871be6110c62
+http://127.0.0.1:6878/ace/getstream?infohash=70b326a20ed023c335618a7eedc7871be6110c62
 
 #EXTINF:-1 group-title="Общероссийские",РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=2864f56c66194e9a859106b89a814b43609f316c
+http://127.0.0.1:6878/ace/getstream?infohash=2864f56c66194e9a859106b89a814b43609f316c
 
 #EXTINF:-1 group-title="Общероссийские",ТНТ
-http://127.0.0.1:6878/ace/getstream?id=a6169d01fb2b8a62b45857666946732773c651d1
+http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
 
 #EXTINF:-1 group-title="Общероссийские",СТС
-http://127.0.0.1:6878/ace/getstream?id=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
+http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
 
 #EXTINF:-1 group-title="Общероссийские",МИР
-http://127.0.0.1:6878/ace/getstream?id=144a257658cc53f3ab77bd8adcf3794e90c6b7f6
+http://127.0.0.1:6878/ace/getstream?infohash=144a257658cc53f3ab77bd8adcf3794e90c6b7f6
 
 #EXTINF:-1 group-title="Общероссийские",ПЯТНИЦА!
-http://127.0.0.1:6878/ace/getstream?id=a95ec5a3780c3a3c76da5707b12561daee4f2305
+http://127.0.0.1:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561daee4f2305
