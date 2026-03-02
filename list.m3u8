@@ -12,8 +12,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2c
 #EXTINF:-1 group-title="Общероссийские",НТВ
 http://127.0.0.1:6878/ace/getstream?infohash=70b326a20ed023c335618a7eedc7871be6110c62
 
-#EXTM3U
-#EXTINF:-1 name="Рен ТВ HD",Рен ТВ HD
+#EXTINF:-1 group-title="Общероссийские",Рен ТВ
 http://127.0.0.1:6878/ace/getstream?infohash=2864f56c66194e9a859106b89a814b43609f316c
 
 #EXTINF:-1 group-title="Общероссийские",ТНТ
